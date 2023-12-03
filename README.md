@@ -1,19 +1,29 @@
 # 羊了个羊（C++ & EasyX）
 
 ## 项目简介/Project Introduction
+
 一款基于C++和EasyX开发的热门三消小游戏。
+
 如果您喜欢这个项目，请给我一个🌟Star🌟吧！
 
 ## 项目特点/Project Features
+
 开发难度低：项目总体难度低，适合初学者参考学习。
+
 图形界面：引入EasyX图形库，使得游戏界面更加美观。
+
 关卡式设计：游戏提供多个关卡，难度逐渐提升。
+
 参数可调：关卡难度、图案数量定义于代码开头部分，可根据需要进行调整。
 
 ## 游戏规则/Game Rules
+
 游戏开始时，地图中会随机生成一定数量的图案。关卡数越大，图案数量越多。
+
 玩家通过点击画面内的图案，将其转移到画面下方的卡槽中，卡槽的存放上限为7。
+
 如果卡槽中相同的图案达到3个则会消除。当地图中的图案全部消除后，通过该关卡，难度升级。
+
 如果卡槽中的图案达到上限，则游戏结束。
 
 ## 开发环境/Development Environment
@@ -56,11 +66,14 @@
 
 ## 素材来源/Source of Materials
 背景图片；来源于网络，经个人修改，如有侵权，请联系删除。
-方块图案；[阿里巴巴矢量图标库](https://www.iconfont.cn/)
+
+方块图案：[阿里巴巴矢量图标库](https://www.iconfont.cn/)
 
 ## 项目截图/Project Screenshots
 ![Screenshot1](Screenshots/1.png)
+
 ![Screenshot2](Screenshots/2.png)
+
 ![Screenshot3](Screenshots/3.png)
 
 ## 许可协议/License
