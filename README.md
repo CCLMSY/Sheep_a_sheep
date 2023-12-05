@@ -26,6 +26,8 @@
 
 如果卡槽中的图案达到上限，则游戏结束。
 
+默认参数：最高关卡10，每关图案数量=关卡数*8*3
+
 ## 开发环境/Development Environment
 - Windows 11
 - Visual Studio 2022
@@ -33,7 +35,7 @@
 
 ## 安装使用/Installation & Usage
 ### 玩家
-[>点击这里<](https://github.com/CCLMSY/Sheep_a_sheep/blob/master/Release.zip)下载并解压压缩包，双击 `Sheep_a_sheep.exe` 运行游戏。
+[>点击这里<](https://github.com/CCLMSY/Sheep_a_sheep/releases/download/Sheep_a_sheep/Release.zip)下载并解压压缩包，双击 `Sheep_a_sheep.exe` 运行游戏。
 ### 开发者
 确保你的系统已安装 EasyX 图形库。
 1. 克隆仓库：
@@ -51,17 +53,12 @@
 │   ├── 1.png
 │   ├── 2.png
 │   └── 3.png
-├── Release.zip
 ├── Sheep_a_sheep
 │   ├── src
 │   │   └── \*.png
-│   └──main.cpp
-└── x64
-    └── Release
-        ├── src
-        │   └── \*.png 
-        ├── Sheep_a_sheep.exe
-        └── Sheep_a_sheep.pdb
+│   ├── Sheep_a_sheep.vcxproj*
+│   └── main.cpp
+└── Sheep_a_sheep.sln
 ```
 
 ## 素材来源/Source of Materials
