@@ -35,7 +35,7 @@
 
 ## 安装使用/Installation & Usage
 ### 玩家
-[>点击这里<](https://github.com/CCLMSY/Sheep_a_sheep/releases/download/Sheep_a_sheep/Release.zip)下载并解压压缩包，双击 `Sheep_a_sheep.exe` 运行游戏。
+[>点击这里<](https://github.com/CCLMSY/Sheep_a_sheep/releases/download/Release/Release.zip)下载并解压压缩包，双击 `Sheep_a_sheep.exe` 运行游戏。
 ### 开发者
 确保你的系统已安装 EasyX 图形库。
 1. 克隆仓库：
