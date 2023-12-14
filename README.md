@@ -26,7 +26,7 @@
 
 如果卡槽中的图案达到上限，则游戏结束。
 
-默认参数：最高关卡10，每关图案数量=关卡数*8*3
+默认参数：最高关卡10，每关图案数量=关卡数\*8\*3
 
 ## 开发环境/Development Environment
 - Windows 11
@@ -55,7 +55,7 @@
 │   └── 3.png
 ├── Sheep_a_sheep
 │   ├── src
-│   │   └── \*.png
+│   │   └── *.png
 │   ├── Sheep_a_sheep.vcxproj*
 │   └── main.cpp
 └── Sheep_a_sheep.sln
